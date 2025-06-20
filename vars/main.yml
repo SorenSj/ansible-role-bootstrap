@@ -69,6 +69,7 @@ bootstrap__os_family_map:
       "Pop!_OS",
       Parrot,
       Pardus GNU/Linux,
+      Proxmox,
     ]
   Gentoo: [Gentoo, Funtoo]
   RedHat:
